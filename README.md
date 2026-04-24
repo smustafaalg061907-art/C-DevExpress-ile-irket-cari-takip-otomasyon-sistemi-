@@ -1,0 +1,2 @@
+# C-DevExpress-ile-irket-cari-takip-otomasyon-sistemi-
+Bu otomasyon, işletmelerin finansal süreçlerini dijitalleştirmek için C# ve DevExpress ile inşa edildi. Cari kart yönetimi, stok takibi, fatura ve kasa işlemlerini hatasız yönetir. Gelişmiş raporlama ve modern arayüzü ile kurumsal verilere anlık erişim sağlar. İş akışını optimize eden, yüksek performanslı ve kullanıcı dostu bir yönetim çözümüdür.
