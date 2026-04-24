@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBankaHareketleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBankaKarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBankaListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBankayaCekCikisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCariGruplari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCariHareketleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCariKarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCariListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCariyeCekCikisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCekKarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCekListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFaturaKarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmFaturaListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKasaDevirIslem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKasaHareketleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKasaKarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKasaListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKasaTahsilatOdeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmKendiCekimiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMusteriCeki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStokGruplari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStokHareketleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStokKarti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStokListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
